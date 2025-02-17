@@ -11,7 +11,7 @@ const ErrorPage = () => {
                 error.status===404 &&  <div>
                     <h3>page not found</h3>
                     <p>Go back where you from</p>
-                    <Link to="/"><button>Go back</button></Link>
+                    <Link to="/"><button  className="bg-green-400 w-40 h-8 rounded-lg mt-2">Go back</button></Link>
                
 
                 </div>

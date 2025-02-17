@@ -8,7 +8,8 @@ import About from "./Components/About/About";
 import Contact from "./Components/Contact/Contact";
 import Users from "./Components/Users/Users";
 import UserDetails from "./Components/Users/UserDetails";
-import ErrorPage from "./Components/Users/User/ErrorPage/ErrorPage";
+import ErrorPage from "./Components/ErrorPage/ErrorPage";
+
 
 
 
